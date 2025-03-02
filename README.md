@@ -22,24 +22,27 @@ To compress files into a `.qer` archive, use the following command:
 ### 2.  Extract Files from .qer Format
 
 To decompress and extract files from a .qer file, use:
-
-```bash
-python qertract.bin namefile.qer
-
+   ```cmd
+  python qertract.bin namefile.qer
+   ```
 
 ### 3. Readonly .qer Files
 
 To read the contents of a .qer file, use:
 
-```bash
-python qerreadonly.bin namefile.qer
-
+ ```cmd
+  python qerreadonly.bin namefile.qer
+   ```
 
 
 ## For windows by cmd
-```bash
+ ```cmd
 qercompress.exe test1.jpg test2.rar test3.zip -n namefile.qer
+   ```
+ ```cmd
 qertract.exe namefile.qer
+   ```
+ ```cmd
 qerreadonly.exe namefile.qer
-
+   ```
 
