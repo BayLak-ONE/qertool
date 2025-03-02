@@ -6,7 +6,6 @@ The **QER** file format is designed for efficient compression, reducing file siz
 
 - **Efficient Compression**: Compress files into `.qer` format with up to 70% size reduction.
 - **Decompression**: Extract and access data from `.qer` files.
-- **Open-Source**: Fully customizable, ideal for integration and modification.
 - **Data Read**:  The tool will only support reading (and not modifying) .qer files.
 
 ## How to Use
