@@ -15,7 +15,7 @@ The **QER** file format is designed for efficient compression, reducing file siz
 
 To compress files into a `.qer` archive, use the following command:
 
-```python qercompress.bin test1.jpg test2.rar test3.zip -n namefile.qer```
+```bash python qercompress.bin test1.jpg test2.rar test3.zip -n namefile.qer```
 
 
 ### 2.  Extract Files from .qer Format
